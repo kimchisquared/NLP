@@ -1,0 +1,28 @@
+Script started on Sun Oct 13 16:08:45 2019
+[?1034hbash-3.2$ exitpython3 talker.py 1 5 35.txt 84.txt 158.txt 5200.txt 2701.txt
+< This program generates random sentences based off an n-gram language model.
+< Command line settings: talker.py 1 5
+
+Sentence 1
+Is do to.
+None
+
+Sentence 2
+One project to so this re buildings 21 of still to fast grant body in whispers our dependence thrice read swarming and as for with their glad the it plan herself queequeg forward when would the his my track bending to hat out that slight daughter his he still feel that.
+None
+
+Sentence 3
+Had done something such coming 117 was canvas the and waste easy with man of as.
+None
+
+Sentence 4
+The before which it now of then the a generations do project most to turkish waves damages transverse the gbnewby has he.
+None
+
+Sentence 5
+Still a it the been.
+None
+bash-3.2$ exit
+exit
+
+Script done on Sun Oct 13 16:08:55 2019
