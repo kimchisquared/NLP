@@ -1,1 +1,4 @@
-Most programs contain instructions located at the top of each program. The programs are slightly overcommented for the sake of clarity. Some could employ numpy/pandas functions to speed up the process.
+Most programs contain instructions located at the top of each program. 
+The programs are slightly overcommented for the sake of clarity. Some could employ numpy/pandas functions to speed up the process.
+
+NOTE: This is a bit of mess. Some of the additional files needed to run this are in a google drive somewhere
